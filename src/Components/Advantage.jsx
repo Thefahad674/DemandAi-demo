@@ -15,7 +15,7 @@ const Advantage = () => {
                             <div className='w-1 h-20 bg-[#207d7f]'></div>
 
                             <div className='flex flex-col ml-3'>
-                                <h1 className='text-[#207d7f] font-semibold text-md'>
+                                <h1 className='text-[#207d7f] font-bold text-md'>
                                     THE AI ADVANTAGE
                                 </h1>
 

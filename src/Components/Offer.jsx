@@ -59,11 +59,11 @@ const Offer = () => {
                     <div className="hidden sm:block w-1 h-22 bg-[#207d7f]"></div>
 
                     <div>
-                        <p className="text-[#207d7f] font-semibold text-sm md:text-base tracking-wide">
+                        <p className="text-[#207d7f] font-bold text-sm md:text-base ">
                             WHAT WE OFFER
                         </p>
 
-                        <h2 className="text-2xl sm:text-3xl md:text-4xl font-bold mt-3 leading-tight">
+                        <h2 className="text-2xl sm:text-3xl md:text-4xl font-bold mt-1 leading-tight">
                             An AI-Powered Ecosystem for Smarter Business Growth
                         </h2>
                     </div>

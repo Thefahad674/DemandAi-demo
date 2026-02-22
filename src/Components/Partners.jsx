@@ -13,10 +13,10 @@ const Partners = () => {
 
                 <div className="flex items-start gap-4 mb-12">
 
-                    <div className="hidden sm:block w-1 h-16 bg-[#207d7f]"></div>
+                    <div className="hidden sm:block w-1 h-20 bg-[#207d7f]"></div>
 
                     <div>
-                        <p className="text-[#207d7f] font-semibold text-sm md:text-base">
+                        <p className="text-[#207d7f] font-bold text-sm md:text-base">
                             OUR PARTNERS
                         </p>
 

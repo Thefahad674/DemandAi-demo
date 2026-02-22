@@ -39,13 +39,13 @@ const Hero2 = () => {
                 </div>
 
 
-                <div className="flex gap-6">
+                <div className="flex gap-4">
 
 
-                    <div className="hidden sm:block w-2 bg-[#207d7f]"></div>
+                    <div className="hidden sm:block w-2 h-30 bg-[#207d7f]"></div>
 
                     <div>
-                        <p className="text-sm md:text-base text-[#207d7f] font-semibold mb-2">
+                        <p className="text-sm md:text-base text-[#207d7f] font-bold mb-2">
                             WHO WE ARE
                         </p>
 
